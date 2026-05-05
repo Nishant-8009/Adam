@@ -194,7 +194,7 @@ between the custom implementation and PyTorch’s built-in Adam optimizer.
 ## Comparison Results
 
 <p align="center">
-  <img src="results/comparison_plots.png" width="900">
+  <img src="Results/comparison_plots.png" width="900">
 </p>
 
 ### Key Observation
